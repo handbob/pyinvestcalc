@@ -1,6 +1,6 @@
 # pyinvestcalc
 
-`pyinvestcalc` is a Python-based automation testing suite leveraging Playwright. It automates validation for an inflation calculator, ensuring accurate user interaction handling and robust performance.
+`pyinvestcalc` is a Python-based automation testing suite leveraging Playwright. It automates validation for an inflation calculator.
 
 ## Table of Contents
 
