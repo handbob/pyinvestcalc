@@ -67,5 +67,5 @@ pytest --tb=short -vv -rA --html=report.html --self-contained-html
 
 ## Report
 
-a) view "screenshots" in created folder
+a) view "screenshots" in created folder   
 b) open in browser "report.html"
