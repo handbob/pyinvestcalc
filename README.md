@@ -11,10 +11,10 @@
 
 ## Requirements
 
-- [Python]("https://www.python.org/")
-- [Playwright]("https://playwright.dev/python/")
-- [pytest-clarity]("https://github.com/darrenburns/pytest-clarity")
-- [pytest-html]("https://github.com/pytest-dev/pytest-html")
+* [Python](https://www.python.org/)
+* [Playwright](https://playwright.dev/python/)
+* [pytest-clarity](https://github.com/darrenburns/pytest-clarity)
+* [pytest-html](https://github.com/pytest-dev/pytest-html)
 
 ## Installation
 
